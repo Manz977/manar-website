@@ -114,7 +114,7 @@
 </div>
 
 
-<h2>Ottawa</h2>
+<!-- <h2>Ottawa</h2>
   <div class="gallery">
   <div class="gallery-item gallery-item--large">
     <img
@@ -141,7 +141,7 @@
   loading="lazy"
 />
   </div>
-</div>
+</div> -->
 
 
 
