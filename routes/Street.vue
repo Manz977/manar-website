@@ -124,14 +124,7 @@
   loading="lazy"
 />
   </div>
-  <div class="gallery-item">
-    <img
-  src="../src/assets/street-photography/Ottawa6.JPG"
-  sizes="(max-width: 768px) 100vw, 50vw"
-  alt="High quality image"
-  loading="lazy"
-/>
-  </div>
+
   <div class="gallery-item">
     <img
   src="../src/assets/street-photography/Ottawa2.JPG"
