@@ -68,13 +68,13 @@ onMounted(() => {
     <div class="home-about-sec">
     <div class="home-about">
       <div class="home-about-img">
-        <img class="my-img" src="../src/assets/home-page-img/edit childrens camp-3.jpg" alt="Image of the website owner holding a camera in front of his face taking a photo of his reflection" width="600px">
+        <img class="my-img" src="/src/assets/home-page-img/edit childrens camp-3.jpg" alt="Image of the website owner holding a camera in front of his face taking a photo of his reflection" width="600px">
       </div>
       <div class="left-home-about">
         <h2>About Me</h2>
         <h4>Web Developer & Photographer</h4>
         <p>I’m an Interactive Media and Design student with a passion for creating beautiful, functional digital experiences. With hands-on experience in web development, UX/UI design, photography, and videography, I thrive at the intersection of creativity and technology—bringing ideas to life through thoughtful design and storytelling.</p>
-        <a href="../src/assets/home-page-img/MonzerE04.pdf" class="rsume-btn"><span>Resume</span></a>
+        <a href="/src/assets/home-page-img/MonzerE04.pdf" class="rsume-btn"><span>Resume</span></a>
 
       </div>
     </div>
@@ -100,7 +100,7 @@ onMounted(() => {
     <div class="container">
     <div class="card__container">
       <article class="card__article">
-        <img src="../src/assets/images/web-design.jpg" alt="img" class="card__img">
+        <img src="/src/assets/images/web-design.jpg" alt="img" class="card__img">
         <div class="card__data">
           <h2 class="card__title">Web Design</h2>
           <span class="card__description">I design bold, user-friendly interfaces that elevate brands.</span>
@@ -109,7 +109,7 @@ onMounted(() => {
       </article>
 
        <article class="card__article">
-        <img src="../src/assets/about-page-img/edit childrens camp-4.jpg" alt="img" class="card__img">
+        <img src="/src/assets/about-page-img/edit childrens camp-4.jpg" alt="img" class="card__img">
         <div class="card__data">
           <h2 class="card__title">Web Development</h2>
           <span class="card__description">I build fast, responsive websites with clean, custom code.</span>
@@ -118,7 +118,7 @@ onMounted(() => {
       </article>
 
        <article class="card__article">
-        <img src="../src/assets/home-page-img/_DSC1110.jpg" alt="img" class="card__img">
+        <img src="/src/assets/home-page-img/_DSC1110.jpg" alt="img" class="card__img">
         <div class="card__data">
           <h2 class="card__title">Photography</h2>
           <span class="card__description">I capture striking, story-driven visuals with a fashion edge.</span>

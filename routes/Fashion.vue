@@ -9,7 +9,7 @@
   <div class="gallery">
   <div class="gallery-item gallery-item--large">
     <img
-  src="../src/assets/fashion/a-1.jpg"
+  src="/src/assets/fashion/a-1.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -17,7 +17,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/fashion/a-2.jpg"
+  src="/src/assets/fashion/a-2.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -25,7 +25,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/fashion/a-4.jpg"
+  src="/src/assets/fashion/a-4.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -33,7 +33,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/fashion/a-5.jpg"
+  src="/src/assets/fashion/a-5.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -41,7 +41,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/fashion/ay-1.jpg"
+  src="/src/assets/fashion/ay-1.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -49,7 +49,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/fashion/Aydan-1-3.jpg"
+  src="/src/assets/fashion/Aydan-1-3.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -57,7 +57,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/fashion/Aydan-1-4.jpg"
+  src="/src/assets/fashion/Aydan-1-4.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -65,7 +65,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/fashion/Aydan-1-5.jpg"
+  src="/src/assets/fashion/Aydan-1-5.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -73,7 +73,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/fashion/Aydan-1-5.jpg"
+  src="/src/assets/fashion/Aydan-1-5.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -81,7 +81,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/fashion/fadi -1.jpg"
+  src="/src/assets/fashion/fadi -1.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -89,7 +89,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/fashion/k-1.jpg"
+  src="/src/assets/fashion/k-1.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -97,7 +97,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/fashion/k-2.jpg"
+  src="/src/assets/fashion/k-2.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -106,7 +106,7 @@
 
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/fashion/m-2.jpg"
+  src="/src/assets/fashion/m-2.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -114,7 +114,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/fashion/m-3.jpg"
+  src="/src/assets/fashion/m-3.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -122,7 +122,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/fashion/m-4.jpg"
+  src="/src/assets/fashion/m-4.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -130,7 +130,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/fashion/m-5.jpg"
+  src="/src/assets/fashion/m-5.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -138,7 +138,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/fashion/n-1.jpg"
+  src="/src/assets/fashion/n-1.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -146,7 +146,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/fashion/n-2.jpg"
+  src="/src/assets/fashion/n-2.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -154,7 +154,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/fashion/n-3.jpg"
+  src="/src/assets/fashion/n-3.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -163,7 +163,7 @@
 
   <div class="gallery-item">
     <img
-  src="../src/assets/fashion/oct26.jpg"
+  src="/src/assets/fashion/oct26.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"

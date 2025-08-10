@@ -13,7 +13,7 @@
     </div>
     <section class="mystory-sec">
       <div class="first-part">
-        <img class="images" src="../src/assets/images/website-1.jpg" alt="" >
+        <img class="images" src="/src/assets/images/website-1.jpg" alt="" >
         <div class="firs-part-content">
         <h2>International Buddhist Progress Society Web Site Redesign</h2>
         <p class="my-story-p">Case study:I helped redesign the IBPS Ottawa website to improve speed, consistency, and usability. We streamlined the layout, fixed navigation issues, optimized events pages, and added basic SEO. The result was a faster, more user-friendly site with better structure and visibility.</p>
@@ -40,11 +40,11 @@
            <span> Visit Site</span>
           </a>
         </div>
-        <img class="images" src="../src/assets/images/2nd website.jpg" alt="">
+        <img class="images" src="/src/assets/images/2nd website.jpg" alt="">
       </div>
       
       <div class="first-part">
-        <img class="images" src="../src/assets/images/mywebsite.jpg" alt="">
+        <img class="images" src="/src/assets/images/mywebsite.jpg" alt="">
         <div class="firs-part-content">
         <h2>My Portflio Design</h2>
         <p class="sec-part-header-p">This portfolio was designed to reflect my style clean, modern, and user-focused. Every detail, from typography to layout, is intentional and rooted in UX principles. I wanted it to feel bold yet minimal, letting the work speak while making navigation intuitive and enjoyable. It’s not just a collection of projects—it’s a digital space that represents how I think, design, and build.</p>

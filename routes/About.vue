@@ -1,9 +1,9 @@
 <script setup>
 import { ref } from 'vue';
 
-import Code from '../src/assets/svg/code.svg'
-import Ux from '../src/assets/svg/Ux.svg'
-import Web from '../src/assets/svg/web.svg'
+import Code from '/src/assets/svg/code.svg'
+import Ux from '/src/assets/svg/Ux.svg'
+import Web from '/src/assets/svg/web.svg'
 
     // 4) Update --x / --y on every mouse move
     document.addEventListener('mousemove', e => {
@@ -37,7 +37,7 @@ import Web from '../src/assets/svg/web.svg'
 
   <section class="mystory-sec">
     <div class="first-part">
-      <img class="images" src="../src/assets/about-page-img/edit childrens camp-4.jpg" alt="" >
+      <img class="images" src="/src/assets/about-page-img/edit childrens camp-4.jpg" alt="" >
       <div class="firs-part-content">
       <h2 class="my-story-header">My Story</h2>
       <h3 class="my-story-sub-head">How I started with web Development</h3>
@@ -51,7 +51,7 @@ import Web from '../src/assets/svg/web.svg'
       <h3 class="my-story-sub-head">How I started with photography</h3>
       <p class="my-story-p">I began capturing moments at 13, using my phone to freeze time—landscapes, light, and fleeting scenes that spoke to me. At 25, I held my first camera, and the world opened up in new colors. I explored every corner of photography, but it was fashion that truly sang to my soul. Through the lens, I found a way to tell stories, to reveal emotion, and to celebrate the beauty of being seen.</p>
       </div>
-      <img class="images" src="../src/assets/home-page-img/edit childrens camp-3.jpg" alt="" >
+      <img class="images" src="/src/assets/home-page-img/edit childrens camp-3.jpg" alt="" >
     </div>
   </section>
 

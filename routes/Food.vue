@@ -9,7 +9,7 @@
   <div class="gallery">
   <div class="gallery-item gallery-item--large">
     <img
-  src="../src/assets/food/ForGodShakes-1.jpg"
+  src="/src/assets/food/ForGodShakes-1.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -18,7 +18,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/food/ForGodShakes-4.jpg"
+  src="/src/assets/food/ForGodShakes-4.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -26,7 +26,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/food/ForGodShakes-5.jpg"
+  src="/src/assets/food/ForGodShakes-5.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -34,7 +34,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/food/ForGodShakes-6.jpg"
+  src="/src/assets/food/ForGodShakes-6.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -42,7 +42,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/food/Zum Pferchtal-15.jpg"
+  src="/src/assets/food/Zum Pferchtal-15.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -50,7 +50,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/food/Zum Pferchtal-2.jpg"
+  src="/src/assets/food/Zum Pferchtal-2.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -58,7 +58,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/food/Zum Pferchtal-28.jpg"
+  src="/src/assets/food/Zum Pferchtal-28.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -66,7 +66,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/food/Zum Pferchtal-30.jpg"
+  src="/src/assets/food/Zum Pferchtal-30.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -74,7 +74,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/food/Zum Pferchtal-34.jpg"
+  src="/src/assets/food/Zum Pferchtal-34.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -83,7 +83,7 @@
 
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/food/Zum Pferchtal-35.jpg"
+  src="/src/assets/food/Zum Pferchtal-35.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -91,7 +91,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/food/Zum Pferchtal-37.jpg"
+  src="/src/assets/food/Zum Pferchtal-37.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -99,7 +99,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/food/Zum Pferchtal-4.jpg"
+  src="/src/assets/food/Zum Pferchtal-4.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -107,7 +107,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/food/Zum Pferchtal-42.jpg"
+  src="/src/assets/food/Zum Pferchtal-42.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -117,7 +117,7 @@
 
   <div class="gallery-item">
     <img
-  src="../src/assets/food/Zum Pferchtal-48.jpg"
+  src="/src/assets/food/Zum Pferchtal-48.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -125,7 +125,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/food/Zum Pferchtal-6.jpg"
+  src="/src/assets/food/Zum Pferchtal-6.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"

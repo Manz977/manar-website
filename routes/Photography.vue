@@ -13,7 +13,7 @@ import { RouterLink } from 'vue-router';
     <div class="container">
     <div class="card__container">
       <article class="card__article">
-        <img src="../src/assets/photo-page-img/fashion.jpg" alt="img" class="card__img">
+        <img src="/src/assets/photo-page-img/fashion.jpg" alt="img" class="card__img">
         <div class="card__data">
           <h2 class="card__title">Fashion</h2>
           <span class="card__description">Collection of my fashion photography</span>
@@ -22,7 +22,7 @@ import { RouterLink } from 'vue-router';
       </article>
 
        <article class="card__article">
-        <img src="../src/assets/photo-page-img/food.jpg" alt="img" class="card__img">
+        <img src="/src/assets/photo-page-img/food.jpg" alt="img" class="card__img">
         <div class="card__data">
           <h2 class="card__title">Food</h2>
           <span class="card__description">Collection of my food photography</span>
@@ -31,7 +31,7 @@ import { RouterLink } from 'vue-router';
       </article>
 
        <article class="card__article">
-        <img src="../src/assets/photo-page-img/street.jpg" alt="img" class="card__img" style="height: 96%;">
+        <img src="/src/assets/photo-page-img/street.jpg" alt="img" class="card__img" style="height: 96%;">
         <div class="card__data">
           <h2 class="card__title">Street Photography</h2>
           <span class="card__description">Collection of my street photography</span>
