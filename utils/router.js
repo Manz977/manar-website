@@ -1,8 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router';
 
 
-import Home from '../routes/Home.vue';
-import About from '../routes/About.vue';
+import Home from '../routes/Home.vue'
+import About from '../routes/About.vue'
 import Portfolio from '../routes/Portfolio.vue';
 import Photography from '../routes/Photography.vue';
 import Contact from '../routes/Contact.vue';

@@ -10,7 +10,7 @@
   <div class="gallery">
   <div class="gallery-item gallery-item--large">
     <img
-  src="../src/assets/street-photography/italy.jpg"
+  src="../public/street-photography/italy.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -18,7 +18,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/street-photography/italy2.jpg"
+  src="../public/street-photography/italy2.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -26,7 +26,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/street-photography/italy3.jpg"
+  src="../public/street-photography/italy3.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -34,7 +34,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/street-photography/italy4.jpg"
+  src="../public/street-photography/italy4.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -42,7 +42,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/street-photography/italy5.jpg"
+  src="../public/street-photography/italy5.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -50,7 +50,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/street-photography/italy6.jpg"
+  src="../public/street-photography/italy6.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -58,7 +58,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/street-photography/italy7.jpg"
+  src="../public/street-photography/italy7.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -66,7 +66,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/street-photography/italy8.jpg"
+  src="../public/street-photography/italy8.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -80,7 +80,7 @@
   <div class="gallery">
   <div class="gallery-item gallery-item--large">
     <img
-  src="../src/assets/street-photography/paris1.jpg"
+  src="../public/street-photography/paris1.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -88,7 +88,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/street-photography/paris2.jpg"
+  src="../public/street-photography/paris2.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -96,7 +96,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/street-photography/paris3.jpg"
+  src="../public/street-photography/paris3.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -104,7 +104,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/street-photography/paris4.jpg"
+  src="../public/street-photography/paris4.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -118,7 +118,7 @@
   <div class="gallery">
   <div class="gallery-item gallery-item--large">
     <img
-  src="../src/assets/street-photography/National Gallery (1 of 1).jpg"
+  src="../public/street-photography/National Gallery (1 of 1).jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -127,7 +127,7 @@
 
   <div class="gallery-item">
     <img
-  src="../src/assets/street-photography/Ottawa2.JPG"
+  src="../public/street-photography/Ottawa2.JPG"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -135,7 +135,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/street-photography/Ottawa4.JPG"
+  src="../public/street-photography/Ottawa4.JPG"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -149,7 +149,7 @@
   <div class="gallery">
   <div class="gallery-item gallery-item--large">
     <img
-  src="../src/assets/street-photography/germany1.jpg"
+  src="../public/street-photography/germany1.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -157,7 +157,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/street-photography/germany2.jpg"
+  src="../public/street-photography/germany2.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -165,7 +165,7 @@
   </div>
   <div class="gallery-item">
     <img
-  src="../src/assets/street-photography/germany3.jpg"
+  src="../public/street-photography/germany3.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -173,7 +173,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/street-photography/germany4.jpg"
+  src="../public/street-photography/germany4.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -181,7 +181,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/street-photography/germany5.jpg"
+  src="../public/street-photography/germany5.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -189,7 +189,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/street-photography/germany6.jpg"
+  src="../public/street-photography/germany6.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -197,7 +197,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/street-photography/germany7.jpg"
+  src="../public/street-photography/germany7.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -205,7 +205,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../src/assets/street-photography/germany8.jpg"
+  src="../public/street-photography/germany8.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
