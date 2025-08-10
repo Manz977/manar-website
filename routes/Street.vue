@@ -127,7 +127,7 @@
 
   <div class="gallery-item">
     <img
-  src="../public/street-photography/Ottawa2.JPG"
+  src="../public/street-photography/Ottawa2.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
@@ -135,7 +135,7 @@
   </div>
   <div class="gallery-item gallery-item--tall">
     <img
-  src="../public/street-photography/Ottawa4.JPG"
+  src="../public/street-photography/Ottawa4.jpg"
   sizes="(max-width: 768px) 100vw, 50vw"
   alt="High quality image"
   loading="lazy"
