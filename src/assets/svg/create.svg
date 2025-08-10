@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="195" height="195">
+  <!-- Bezier-handle arc -->
+  <path
+    d="M8 32 A24 24 0 0 1 56 32"
+    fill="none"
+    stroke="#fff"
+    stroke-width="4"
+  />
+  
+  <!-- Handle nodes -->
+  <rect x="4"  y="28" width="8" height="8" fill="#fff"/>
+  <rect x="52" y="28" width="8" height="8" fill="#fff"/>
+  <rect x="28" y="4"  width="8" height="8" fill="#fff"/>
+  
+  <!-- Pen nib body -->
+  <path
+    d="M32 32 
+       L24 56 
+       L32 52 
+       L40 56 
+       L32 32 
+       Z"
+    fill="#fff"
+  />
+  
+  <!-- Nib hole -->
+  <circle cx="32" cy="38" r="3" fill="#000"/>
+</svg>

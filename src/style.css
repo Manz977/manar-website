@@ -1,0 +1,131 @@
+/*   FOnt family Spectral */
+@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+/* Regular (400) */
+@font-face {
+  font-family: 'Qurova';
+  src: url('./assets/qurova-font-family/QurovaDEMO-Regular-BF67a5c637a5dc9.otf')
+       format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Medium (500) */
+@font-face {
+  font-family: 'Qurova';
+  src: url('./assets/qurova-font-family/QurovaDEMO-Medium-BF67a5c6382651c.otf')
+       format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Semi-Bold (600) */
+@font-face {
+  font-family: 'Qurova';
+  src: url('./assets/qurova-font-family/QurovaDEMO-SemiBold-BF67a5c637bcd0b.otf')
+       format('opentype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Bold (700) */
+@font-face {
+  font-family: 'Qurova';
+  src: url('./assets/qurova-font-family/QurovaDEMO-Bold-BF67a5c637eed62.otf')
+       format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+:root {
+  font-family: "Spectral", Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+}
+
+html {
+  cursor: none;
+
+}
+body {
+  max-width: 1300px;
+  margin: 0 auto;
+  background-color: #182735;
+  color: aliceblue;
+  height: 100%;
+  background: url('../src/assets/images/background.jpg') no-repeat;
+  background-size: cover;
+  position: relative;
+  cursor: none;
+}
+
+.typewriter {
+  font-size: 2.5rem;
+  font-family: "Spectral", Avenir, Helvetica, Arial, sans-serif;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+
+nav a,
+nav button,
+nav .burger {
+  cursor: pointer;
+}
+
+.logo a {
+  font-family: 'Qurova', sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.contact-btn {
+  font-family: "Spectral";
+}
+
+.h1-home, .h1-photography, 
+.h1-about, .h1-contact, .h1-fashion,
+.h1-food, .h1-street   {
+  font-family: 'Qurova', sans-serif;
+  font-weight: 700;
+  font-size: 6rem;  
+  letter-spacing: 5px;
+}
+
+/*=================== Background hovereffect style =======================*/
+
+
+
+    .overlay {
+      position: fixed;
+      top: 0; right: 0; bottom: 0; left: 0;
+      background: rgba(0, 0, 0, 0.9);
+      pointer-events: none;        /* let the mouse pass through */
+      
+      /* apply a radial-gradient mask that’s transparent in the circle */
+      -webkit-mask-image: radial-gradient(
+        circle 80px at var(--x) var(--y),
+        transparent 0%, transparent 80px,
+        black 80px
+      );
+      mask-image: radial-gradient(
+        circle 20px at var(--x) var(--y),
+        transparent 0%, transparent 20px,
+        black 80px
+      );
+      -webkit-mask-repeat: no-repeat;
+      mask-repeat: no-repeat;
+      z-index: -1111111;
+    }
+
+
+    :root {
+      --x: 50%;
+      --y: 50%;
+    }
+
+
+
+/*=================== End of Background hovereffect style =======================*/
